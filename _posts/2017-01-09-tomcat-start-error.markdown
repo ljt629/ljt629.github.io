@@ -1,3 +1,12 @@
+---
+layout:     post
+title:      "Tomcat Start Error"
+subtitle:   "First Article!"
+date:       2017-01-08 08:00:00
+author:     "Juntaek Lee"
+header-img: "img/post-bg-06.jpg"
+---
+
 <h2 class="section-heading">Tomcat Start Error 발생 시 해결방안</h2>
 
 <p>1. Maven 저장소 초기화</p>
