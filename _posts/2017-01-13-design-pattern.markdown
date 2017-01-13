@@ -12,7 +12,8 @@ header-img: "img/post-bg-06.jpg"
 <p>1. 정의 </p>
 <p>- 변하지 않는 기능은 슈퍼클래스가 구현하고 상속하여 사용한다.<br>- 자주 변경되는 기능이나 확장될 기능은 Abstract로 선언하여 하위 클래스가 각자 구현한다.</p>
 
-![](http://ljt629.github.io/img/factory-method-pattern.png)
+
+![](http://ljt629.github.io/img/factory-method-pattern.PNG)
 <br>
 <p> 출처 : https://byulmuri.wordpress.com/tag/design-pattern-2/ </p>
 
@@ -34,7 +35,7 @@ header-img: "img/post-bg-06.jpg"
 - 객체를 생성하는 인터페이스 정의하고 실제로 어떤 클래스의 인스턴스를 만들지는 서브클래스가 결정하도록 하는 것.
 </p>
 
-![](http://ljt629.github.io/img/template-method-pattern.png)
+![](http://ljt629.github.io/img/template-method-pattern.PNG)
 <br>
 <p> 출처 : http://kimsunzun.tistory.com/entry/Template-Method-패턴-1 </p>
 
