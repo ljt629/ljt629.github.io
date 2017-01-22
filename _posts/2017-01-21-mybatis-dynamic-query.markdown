@@ -10,7 +10,7 @@ header-img: "img/post-bg-06.jpg"
 <h2 class="section-heading">if</h2>
 
 
-![](http://ljt629.github.io/img/if.PNG)
+
 <p>
  기본적인 문법구조는 if태그로 감싸주고 조건으로 넣기 위해 "test"라는 속성을 이용한다.
 city_zone_id_arr가 null이 아닌경우에만 <if> 태그 안에 작성된 내용이 쿼리에 포함되게 된다.
@@ -18,7 +18,7 @@ city_zone_id_arr가 null이 아닌경우에만 <if> 태그 안에 작성된 내�
 <br>
 
 <h2 class="section-heading">choose, when</h2>
-![](http://ljt629.github.io/img/choose-when.PNG)
+
 <br>
 <p>
  MyBatis에서는 choose - when이 switch - case 기능을 대신할 수 있다. 기본적인 문법구조는 choose 태그 안에 when 태그를 조건으로 넣는 구조이다. when은 원하는 조건만큼 넣을 수 있다. <br>
@@ -28,7 +28,7 @@ city_zone_id_arr가 null이 아닌경우에만 <if> 태그 안에 작성된 내�
 
 <h2 class="section-heading">foreach</h2>
 
-![](http://ljt629.github.io/img/foreach.PNG)
+
 <p>
  foreach는 SQL문 IN에 들어갈 데이터를 List로 넘겨주고 싶을 때 사용할 수 있다. (굳이 IN이 아니더라도 List를 넘겨주고 싶을 때 사용할 수 있다.) 기본적인 문법구조는 foreach 태그와 속성을 이용한다. <br>
 collection : list 혹은 arr 이름 <br>
