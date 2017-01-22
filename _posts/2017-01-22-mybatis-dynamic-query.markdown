@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "MyBatis Dynamic Query "
-subtitle:   "Design Pattern"
-date:       2017-01-21 08:00:00
+subtitle:   "SQL"
+date:       2017-01-20 08:00:00
 author:     "Juntaek Lee"
 header-img: "img/post-bg-06.jpg"
 ---
