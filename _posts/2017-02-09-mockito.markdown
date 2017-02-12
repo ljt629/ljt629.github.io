@@ -24,7 +24,8 @@ header-img: "img/post-bg-06.jpg"
  
 #### Mock 객체 생성
 ---
- ![](http://ljt629.github.io/img/blog-mock.PNG)
+
+![](http://ljt629.github.io/img/blog-mock.PNG)
 
 (출처 : http://javacan.tistory.com/entry/MocktestUsingMockito)
 
@@ -32,6 +33,7 @@ header-img: "img/post-bg-06.jpg"
  
 #### Mockito.verify()
 ---
+
 ![](http://ljt629.github.io/img/blog-verify.PNG)
 
 (출처 : http://javacan.tistory.com/entry/MocktestUsingMockito)
@@ -51,6 +53,7 @@ testMethod()가 최대 3번 호출되었는지 검증한다.
  
 #### Stub
 ---
+
 ![](http://ljt629.github.io/img/blog-stub.PNG)
 
 (출처 : http://javacan.tistory.com/entry/MocktestUsingMockito)
