@@ -28,7 +28,7 @@ header-img: "img/post-bg-06.jpg"
 #### Mock 객체 생성
 ---
 
-![](http://ljt629.github.io/img/mock.PNG)
+![](http://ljt629.github.io/img/mock.png)
 
 (출처 : http://javacan.tistory.com/entry/MocktestUsingMockito)
 
@@ -37,7 +37,7 @@ header-img: "img/post-bg-06.jpg"
 #### Mockito.verify()
 ---
 
-![](http://ljt629.github.io/img/verify.PNG)
+![](http://ljt629.github.io/img/verify.png)
 
 (출처 : http://javacan.tistory.com/entry/MocktestUsingMockito)
 
@@ -68,7 +68,7 @@ header-img: "img/post-bg-06.jpg"
 #### Stub
 ---
 
-![](http://ljt629.github.io/img/stub.PNG)
+![](http://ljt629.github.io/img/stub.png)
 
 (출처 : http://javacan.tistory.com/entry/MocktestUsingMockito)
 
